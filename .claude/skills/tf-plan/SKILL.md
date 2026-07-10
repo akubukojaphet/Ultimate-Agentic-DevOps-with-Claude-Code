@@ -12,4 +12,4 @@ Summarize:
 - [ ] Any potential issues or risks (e.g., resource replacements, security group changes, data loss)
 - [ ] Estimated blast radius
 
-If the plan fails, diagnose the error and suggest a fix.
+If the plan fails, diagnose the error and suggest possible fixes.

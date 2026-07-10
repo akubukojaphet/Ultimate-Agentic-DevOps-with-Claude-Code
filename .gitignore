@@ -3,3 +3,5 @@ terraform/.terraform/
 *.tfstate
 *.tfstate.*
 .claude/settings.local.json
+.claude/agent-memory/
+.claude/deploy.log
